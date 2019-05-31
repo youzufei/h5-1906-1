@@ -1,0 +1,110 @@
+{
+    "car": [
+        {
+            "id": 1,
+            "img": "../kaola/car/1-small1.jpg",
+            "tit": "【新人专享】【网易自营 品牌授权】妆蕾 RAY 蚕丝面膜 金色10片+银色10片 共20片.net防伪查验",
+            "nav": "年轻新肌肤",
+            "price": "98"
+        },
+        {
+            "id": 2,
+            "img": "../kaola/car/2-small1.jpg",
+            "tit": "SHISEIDO 资生堂 安耐晒小金瓶防晒露 SPF50+　PA++++ 60毫升 新版",
+            "nav": "防晒界的不",
+            "price": "189"
+        },
+        {
+            "id": 3,
+            "img": "../kaola/car/3-small1.jpg",
+            "tit": "Freeplus 芙丽芳丝 净润洗面霜 100克 人见人爱",
+            "nav": "人见人爱啊",
+            "price": "89"
+        },
+        {
+            "id": 4,
+            "img": "../kaola/car/4-small1.jpg",
+            "tit": "【提亮】LΛNEIGE 兰芝 雪纱丝柔防晒新款隔离霜 30毫升",
+            "nav": "修正暗黄泛",
+            "price": "139"
+        },
+        {
+            "id": 5,
+            "img": "../kaola/car/5-small1.jpg",
+            "tit": "ESTĒE LAUDER 雅诗兰黛 持妆粉底液 30毫升",
+            "nav": "持久不脱妆",
+            "price": "258"
+        },
+        {
+            "id": 6,
+            "img": "../kaola/car/6-small1.jpg",
+            "tit": "【张柏芝同款】2瓶装 | BIODERMA 贝德玛 舒妍温和保湿卸妆水 粉水 500毫升",
+            "nav": "懒人必备的",
+            "price": "182"
+        },
+        {
+            "id": 7,
+            "img": "../kaola/car/7-small1.jpg",
+            "tit": "ESTĒE LAUDER 雅诗兰黛 特润修护精华眼霜 小棕瓶“抗蓝光”眼霜 15毫升",
+            "nav": "淡化熊猫眼",
+            "price": "409"
+        },
+        {
+            "id": 8,
+            "img": "../kaola/car/8-small1.jpg",
+            "tit": "【3件装】Bioré 碧柔 水活防晒保湿凝露防晒霜 50克 SPF50+ PA++++",
+            "nav": "无可挑剔的",
+            "price": "155"
+        },
+        {
+            "id": 9,
+            "img": "../kaola/car/9-small1.jpg",
+            "tit": "【陈柏霖同款】ORIGINS 悦木之源 灵芝焕能精华水 菌菇水 200毫升 靠它撑过烂脸期",
+            "nav": "还原肌肤好",
+            "price": "189"
+        },
+        {
+            "id": 10,
+            "img": "../kaola/car/10-small1.jpg",
+            "tit": "【精华含量高达71%】AGE20`s 爱纪二十之 爱敬 精华粉底 气垫BB霜",
+            "nav": "还原肌肤好",
+            "price": "178"
+        },
+        {
+            "id": 11,
+            "img": "../kaola/car/11-small1.jpg",
+            "tit": "【精华含量高达71%】AGE20`s 爱纪二十之 爱敬 精华粉底 气垫BB霜",
+            "nav": "精华含量高",
+            "price": "42"
+        },
+        {
+            "id": 12,
+            "img": "../kaola/car/12-small1.jpg",
+            "tit": "Avène 雅漾 舒护活泉水喷雾 150毫升",
+            "nav": "十年只为你",
+            "price": "69"
+        },
+        {
+            "id": 13,
+            "img": "../kaola/car/13-small1.jpg",
+            "tit": "【轻松补钙好成长】BIO ISLAND 佰澳朗德 婴幼儿童液体乳钙软胶囊 90粒",
+            "nav": "从娃娃抓起",
+            "price": "89"
+        },
+        {
+            "id": 14,
+            "img": "../kaola/car/14-small1.jpg",
+            "tit": "A.H.C 玻尿酸神仙水水乳套盒 平价补水扛把子",
+            "nav": "不一样的神",
+            "price": "129"
+        },
+        {
+            "id": 15,
+            "img": "../kaola/car/15-small1.jpg",
+            "tit": "MAC 魅可 时尚唇膏 3克",
+            "nav": "不一样的神",
+            "price": "125"
+        }
+
+    ]
+}
